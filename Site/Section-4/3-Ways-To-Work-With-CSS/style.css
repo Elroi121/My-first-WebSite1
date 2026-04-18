@@ -1,0 +1,16 @@
+* {
+  color: blue;
+}
+
+p {
+  background-color: brown;
+}
+
+.highlights {
+  color: white;
+  font-size: 25px;
+}
+
+#main-heading {
+  background-color: white;
+}
